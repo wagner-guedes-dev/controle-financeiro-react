@@ -1,0 +1,11 @@
+.container-header{
+    width: 100vw;
+    background-color: rgb(64, 145, 108);
+    height: 150px;
+    color: rgb(8, 28, 21);
+    padding-top: 20px;
+    min-width: 410px;
+}
+.container-header h1{
+    font-weight: 800;
+}
